@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-$ php composer.phar require lysenkobv/maxmind-geolite2-database "~1.0"
+$ php composer.phar require lysenkobv/maxmind-geolite2-database "dev-master"
 ```
 
 OR 
@@ -11,7 +11,7 @@ add to your `composer.json`
 ```json
 {
     "require": {
-        "lysenkobv/maxmind-geolite2-database": "~1.0"
+        "lysenkobv/maxmind-geolite2-database": "dev-master"
     }
 }
 ```
