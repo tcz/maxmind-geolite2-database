@@ -6,9 +6,9 @@ COUNTRY_TAR="country.tar.gz"
 CITY_TMP="city-tmp"
 COUNTRY_TMP="country-tmp"
 
-echo "Getting the newest GeoLite2-City database"
+echo "Getting the latest GeoLite2-City database"
 wget $CITY_TAR_LINK -q --show-progress -O $CITY_TAR
-echo "Done. Now getting the newest GeoLite2-Country database"
+echo "Done. Now getting the latest GeoLite2-Country database"
 wget $COUNTRY_TAR_LINK -q --show-progress -O $COUNTRY_TAR
 echo "Unpacking"
 mkdir $CITY_TMP
