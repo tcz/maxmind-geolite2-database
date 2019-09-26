@@ -1,5 +1,6 @@
 {
   "name": "lysenkobv/maxmind-geolite2-database",
   "keywords": ["maxmind"],
-  "version": "1.0.4"
+  "version": "1.0.5",
+  "license": "MIT"
 }
